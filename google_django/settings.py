@@ -130,11 +130,11 @@ STATIC_URL = '/static/'
 
 STATIC_ROOT = os.path.join(BASE_DIR, 'static_cdn')
 
-GOOGLE_API_KEY = "AIzaSyC5F_tagetd_ycbjUs5bdbgtEKGhghiY9I"
+GOOGLE_API_KEY = ""
 
-RECAPTCHA_PUBLIC_KEY = "6LeW8QgcAAAAALLChJeapaxsh6bhtynkarI7vPky"
+RECAPTCHA_PUBLIC_KEY = ""
 
-RECAPTCHA_PRIVATE_KEY = "6LeW8QgcAAAAAPuWDwqy4BNrxAJSBvUKkwwBDCLg"
+RECAPTCHA_PRIVATE_KEY = ""
 
 
 # Default primary key field type
